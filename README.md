@@ -6,7 +6,6 @@ This repository is built on a simple belief:
 **understanding comes before abstraction**.  
 Instead of starting with buzzwords and high-level APIs, each idea here begins with a clear, explicit implementation that shows what is actually happening.
 
----
 
 ## What this repo contains
 
@@ -17,7 +16,6 @@ Instead of starting with buzzwords and high-level APIs, each idea here begins wi
 
 This is a fundamentals repo, not a production framework.
 
----
 
 ## Repository structure
 
@@ -43,7 +41,6 @@ Each file follows the same pattern:
 
 No nested folders. No hidden abstractions.
 
----
 
 ## Libraries used
 
@@ -55,8 +52,6 @@ Libraries are introduced only after the scratch version exists.
 - Lightweight embedding and retrieval tools where needed
 
 The goal is not to avoid libraries, but to **understand what they abstract away**.
-
----
 
 ## How to run
 
@@ -70,7 +65,6 @@ python rag_basics.py
 
 No configuration files. No setup rituals.No configuration files. No setup rituals.
 
----
 
 ## What this repo is not
 
@@ -80,7 +74,6 @@ No configuration files. No setup rituals.No configuration files. No setup ritual
 
 Those come later. This repo is about foundations.
 
----
 
 ## Final note
 
